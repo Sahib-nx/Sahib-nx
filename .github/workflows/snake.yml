@@ -8,10 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3.2.0
+      - name: Create output directory
+        run: mkdir -p output
+      - uses: crazy-max/ghaction-github-snk@v1
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: output/snake.svg
+          output: output/snake.svg
+      - name: Debug SVG creation
+        run: ls -la output/
       - name: Commit snake SVG
         run: |
           git config --global user.name 'github-actions[bot]'
