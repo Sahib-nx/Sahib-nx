@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '0 0 * * *' # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -22,10 +22,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and Push Snake SVG
+      - name: Commit and push the generated snake.svg
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/snake.svg
-          git commit -m "Update snake.svg"
+          git commit -m "Update snake.svg" || echo "No changes to commit"
           git push
