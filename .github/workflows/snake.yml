@@ -1,30 +1,31 @@
 name: Generate Snake
+
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *' # Runs every day at midnight
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Create output directory
-        run: mkdir -p output
-      - uses: crazy-max/ghaction-github-snk@v1
-        id: snake
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3.2.0
         with:
-          github_user_name: ${{ github.repository_owner }}
-          output: output/snake.svg
+          github_user_name: your-username # Replace with your actual GitHub username
+          outputs: |
+            output/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Debug SVG creation
+
+      - name: Commit and Push Snake SVG
         run: |
-          echo "Snake action output: ${{ steps.snake.outputs.svg_path }}"
-          ls -la output/
-      - name: Commit snake SVG
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
           git add output/snake.svg
-          git commit -m 'Update snake SVG' || echo "No changes to commit"
+          git commit -m "Update snake.svg"
           git push
