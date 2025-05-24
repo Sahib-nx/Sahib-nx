@@ -11,11 +11,16 @@ jobs:
       - name: Create output directory
         run: mkdir -p output
       - uses: crazy-max/ghaction-github-snk@v1
+        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           output: output/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Debug SVG creation
-        run: ls -la output/
+        run: |
+          echo "Snake action output: ${{ steps.snake.outputs.svg_path }}"
+          ls -la output/
       - name: Commit snake SVG
         run: |
           git config --global user.name 'github-actions[bot]'
