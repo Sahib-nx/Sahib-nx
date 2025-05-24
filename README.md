@@ -76,7 +76,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/[your-username]/[your-username]/blob/output/snake.svg?raw=true" alt="Contribution Snake" />
+  <img src="https://github.com/Sahib-nx/Sahib-nx/blob/main/output/snake.svg?raw=true" alt="Contribution Snake" />
 </div>
 
 <div align="center">
