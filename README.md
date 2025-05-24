@@ -70,6 +70,10 @@
 
 ---
 
+### 🚀 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 <div align="center">
   <img src="https://github.com/[your-username]/[your-username]/blob/output/snake.svg?raw=true" alt="Contribution Snake" />
