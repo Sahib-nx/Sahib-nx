@@ -80,5 +80,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer&animation=fadeIn" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" width="100%">
+</div>
+
+<div align="center">
+  <h3>✨ Innovate, Create, Celebrate!</h3>
+  <p>Building the future with code and creativity. Join me in crafting solutions that inspire! 🚀</p>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF6F61,6B7280&height=80&section=footer&text=Let's%20Shape%20Tomorrow&fontSize=20&fontColor=FFFFFF&animation=twinkling" width="100%">
 </div>
