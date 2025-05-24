@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3.2.0
         with:
-          github_user_name: your-username # Replace with your actual GitHub username
+          github_user_name: Sahib-nx
           outputs: |
             output/snake.svg
         env:
