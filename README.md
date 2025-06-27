@@ -76,6 +76,8 @@
 
 ### 🚀 Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Sahib-nx/NeuviAI/pull/1) in [Sahib-nx/NeuviAI](https://github.com/Sahib-nx/NeuviAI)
+2. 💪 Opened PR [#1](https://github.com/Sahib-nx/NeuviAI/pull/1) in [Sahib-nx/NeuviAI](https://github.com/Sahib-nx/NeuviAI)
 <!--END_SECTION:activity-->
 
 
