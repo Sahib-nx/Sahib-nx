@@ -76,8 +76,8 @@
 
 ### 🚀 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Sahib-nx/Codexa.AI/pull/9) in [Sahib-nx/Codexa.AI](https://github.com/Sahib-nx/Codexa.AI)
-2. 💪 Opened PR [#9](https://github.com/Sahib-nx/Codexa.AI/pull/9) in [Sahib-nx/Codexa.AI](https://github.com/Sahib-nx/Codexa.AI)
+1. 🎉 Merged PR [#10](https://github.com/Sahib-nx/Codexa.AI/pull/10) in [Sahib-nx/Codexa.AI](https://github.com/Sahib-nx/Codexa.AI)
+2. 💪 Opened PR [#10](https://github.com/Sahib-nx/Codexa.AI/pull/10) in [Sahib-nx/Codexa.AI](https://github.com/Sahib-nx/Codexa.AI)
 <!--END_SECTION:activity-->
 
 
