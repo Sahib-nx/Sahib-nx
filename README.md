@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <h2>🚀 Full-Stack Developer | DevOps Enthusiast | AI Integration Specialist</h2>
+  <h2>🚀 Full-Stack Developer | Open Souce Enthusiast | Just Learning</h2>
   <p>
     <em>Crafting scalable applications with cutting-edge technologies.</em><br>
     Building the future with modern web/mobile solutions, cloud infrastructure, and intelligent automation.
@@ -52,6 +52,7 @@
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -130,6 +131,9 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sahib-nx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
 </div>
 
 ---
