@@ -188,8 +188,8 @@ const sahib = {
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Sahib-nx/Todo-React-Native/pull/5) in [Sahib-nx/Todo-React-Native](https://github.com/Sahib-nx/Todo-React-Native)
-2. 💪 Opened PR [#5](https://github.com/Sahib-nx/Todo-React-Native/pull/5) in [Sahib-nx/Todo-React-Native](https://github.com/Sahib-nx/Todo-React-Native)
+1. 🎉 Merged PR [#6](https://github.com/Sahib-nx/Todo-React-Native/pull/6) in [Sahib-nx/Todo-React-Native](https://github.com/Sahib-nx/Todo-React-Native)
+2. 💪 Opened PR [#6](https://github.com/Sahib-nx/Todo-React-Native/pull/6) in [Sahib-nx/Todo-React-Native](https://github.com/Sahib-nx/Todo-React-Native)
 <!--END_SECTION:activity-->
 
 ---
