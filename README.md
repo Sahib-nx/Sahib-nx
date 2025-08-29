@@ -188,8 +188,8 @@ const sahib = {
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Sahib-nx/HelpNest/pull/7) in [Sahib-nx/HelpNest](https://github.com/Sahib-nx/HelpNest)
-2. 💪 Opened PR [#7](https://github.com/Sahib-nx/HelpNest/pull/7) in [Sahib-nx/HelpNest](https://github.com/Sahib-nx/HelpNest)
+1. 🎉 Merged PR [#8](https://github.com/Sahib-nx/HelpNest/pull/8) in [Sahib-nx/HelpNest](https://github.com/Sahib-nx/HelpNest)
+2. 💪 Opened PR [#8](https://github.com/Sahib-nx/HelpNest/pull/8) in [Sahib-nx/HelpNest](https://github.com/Sahib-nx/HelpNest)
 <!--END_SECTION:activity-->
 
 ---
