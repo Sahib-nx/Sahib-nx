@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <h2>🚀 Full-Stack Developer | Open Souce Enthusiast | Just Learning</h2>
+  <h2> Full-Stack Developer | Open Souce Enthusiast | Just Learning</h2>
   <p>
     <em>Crafting scalable applications with cutting-edge technologies.</em><br>
     Building the future with modern web/mobile solutions, cloud infrastructure, and intelligent automation.
