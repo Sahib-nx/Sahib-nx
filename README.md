@@ -33,7 +33,7 @@
 
 ## 👋 About Me
 
-Software engineering student focused on full-stack development, data science, and embedded systems — I like building things that actually work, not just things that demo well.
+Software engineering student focused on full-stack development, data science, and embedded systems, I like building things that actually work, not just things that demo well.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:1a1a2e&height=2&width=100%" width="100%">
 
